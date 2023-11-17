@@ -1,7 +1,7 @@
 //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 01_Test_Load_Cell_Sensor_5kg_and_HX711
 //----------------------------------------Including the libraries.
 #include "HX711.h"
-//----------------------------------------
+//---------------------------------------- NOT == Bu baya beni aşar o yüzden hiç anlatmıyorum
 
 //----------------------------------------Defines the connected PIN between HX711 and ESP32.
 #define LOADCELL_DOUT_PIN 3 //olmassa bunları sil (1.adım)
