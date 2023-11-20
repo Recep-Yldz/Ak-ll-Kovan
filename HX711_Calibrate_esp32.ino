@@ -4,8 +4,8 @@
 //----------------------------------------
 
 //----------------------------------------Pinler Atanıyor..
-#define LOADCELL_DOUT_PIN D3 //olmassa bunları sil (1.adım)
-#define LOADCELL_SCK_PIN  D5 //olmassa bunları sil (1.adım)
+#define LOADCELL_DOUT_PIN D3 //olmazsa bunları sil (1.adım)
+#define LOADCELL_SCK_PIN  D5 //olmazsa bunları sil (1.adım)
 //----------------------------------------
 
 
@@ -24,7 +24,7 @@ void setup() {
 
   Serial.println();
   Serial.println("LOADCELL_HX711 begin.");
-  LOADCELL_HX711.begin(LOADCELL_DOUT_PIN, LOADCELL_SCK_PIN); //olmassa bunlar D3,D5 olarak Değiştir (2.adım)
+  LOADCELL_HX711.begin(LOADCELL_DOUT_PIN, LOADCELL_SCK_PIN); //olmazsa bunlar D3,D5 olarak Değiştir (2.adım)
   delay(1000);
 
   Serial.println();
