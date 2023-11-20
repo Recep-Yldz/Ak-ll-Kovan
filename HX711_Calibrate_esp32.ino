@@ -3,7 +3,7 @@
 #include "deneyap.h"
 //----------------------------------------
 
-//----------------------------------------Pinler Atanıyor..
+//----------------------------------------Pinler Atanıyor..  
 #define LOADCELL_DOUT_PIN D3 //olmazsa bunları sil (1.adım)
 #define LOADCELL_SCK_PIN  D5 //olmazsa bunları sil (1.adım)
 //----------------------------------------
