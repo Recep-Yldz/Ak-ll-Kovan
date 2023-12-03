@@ -4,4 +4,4 @@ Hx711 bağlantı gnd = gnd
                Dout = D12
                SCK = D13
  
-DHT11 =
+DHT11 = https://github.com/RecoYldz58/Ak-ll-Kovan/tree/DHT11
