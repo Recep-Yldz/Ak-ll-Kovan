@@ -5,9 +5,10 @@ Hx711 bağlantı gnd = gnd
                SCK = D13
                
                
+               ![Ekran Görüntüsü (42)](https://github.com/RecoYldz58/Ak-ll-Kovan/assets/148587672/3d8770ab-9e3f-4746-8e91-2346b58dc89d)
+
                
-               
-              ![Ekran Görüntüsü (42)](https://github.com/RecoYldz58/Ak-ll-Kovan/assets/148587672/15811e09-8a52-4a60-9dbd-c555766dd951)
+              
 
 
 
