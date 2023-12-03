@@ -1,1 +1,3 @@
-hx711 = https://github.com/RecoYldz58/Ak-ll-Kovan/tree/Hx711
+hx711 = https://github.com/RecoYldz58/Ak-ll-Kovan/tree/Hx711 
+Hx711 bağlantı gnd = gnd
+               vcc = 5v
