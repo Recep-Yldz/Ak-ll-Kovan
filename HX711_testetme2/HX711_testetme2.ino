@@ -1,4 +1,5 @@
 #include "deneyap.h" 
+#include "HX711.h"
 
 const int LOADCELL_DOUT_PIN = D12; 
 const int LOADCELL_SCK_PIN = D13; 
